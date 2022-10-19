@@ -1,1 +1,4 @@
-* text eol=crlf
+*   text eol=crlf
+*.jpg   -text
+*.png   -text
+*.drawio   -text
