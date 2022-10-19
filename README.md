@@ -18,7 +18,7 @@ I implement it with stm32f4, PWM-controllable laser engraving module. As it is s
 
 Specifically, the laser engraving module must be PWM-controllable, in order to AM modulate the laser beam.
 
-![laser_module](imgs/laser_module.jpg =200x)
+<img src=imgs/laser_module.jpg width=200/>
 
 [C#-Serial](C%23-Serial/) is a serial monitor implemented with C# (.net5.0), to monitor the sampled value taken by stm32.
 
